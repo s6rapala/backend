@@ -11,4 +11,3 @@
 #images
 
 ![GitHub Logo](/images/GET-allUSers.png)
-Format: ![Alt Text](url)
