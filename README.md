@@ -8,6 +8,15 @@
 6. Goto Base Directory -> Workspace and select the project.
 7. In Goals, type "spring-boot:run" without quotations. Click Run.
 
-#images
-
+# images
+## Get all the Users
 ![GitHub Logo](/images/GET-allUSers.png)
+
+
+## Add a User using POST
+![GitHub Logo](/images/POST-addUser-1.png)
+
+![GitHub Logo](/images/POST-addUser-4.png)
+
+## In-memory database populated
+![GitHub Logo](/images/H2-inmemorydatabase.png)
